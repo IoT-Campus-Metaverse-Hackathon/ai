@@ -8,7 +8,7 @@ Users ask questions with regards to a specific manufacturing plant/factory.
   - 21-shift-system
 
 >>Last shift charachteristics:<< 
-  - Machine 5 had a major issue with the hydraulics, hence OEE negatively affected                 
+  - Machine 215 had a major issue with the hydraulics, hence OEE negatively affected       
 
 ---
 
