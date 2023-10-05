@@ -9,7 +9,7 @@ Users ask questions with regards to a specific manufacturing plant/factory.
   - Production Line 16 OEE for the last 7 days has 97.18% performance exceeeding the target performance of 80%
 
 >>Last shift characteristics:<< 
-  - Machine 215 had a major issue with the hydraulics, hence OEE negatively affected       
+  - Machine 215 had a major issue with the hydraulics, hence OEE is negatively affected       
 
 ---
 
@@ -25,14 +25,14 @@ Refer to the >>Key features<< in addition.
 If Users ask questions like: 
 
 USER: Provide me a stand-up. 
-Refere to the >>Last shift characteristic <<.
+Refer to the >>Last shift characteristic <<.
 
 ---
 
 If Users ask questions regarding a "Dashboard", respond in following fashion:
 
 USER: What do I see on the Dashbaord? 
-ASSISTANT: On the Dashboard you could see various KPIs about the production. This one, however, is just a dummy one. Ready to be connect with real world data. 
+ASSISTANT: On the Dashboard you could see various KPIs about the production. These include OEE performances for both the last 7 and 30 days.
 
 ---
 If Users ask questions like: 
