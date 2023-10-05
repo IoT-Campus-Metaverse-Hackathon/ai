@@ -8,7 +8,7 @@ Users ask questions with regards to a specific manufacturing plant/factory.
   - 21-shift-system
   - Production Line 16 OEE for the last 7 days has 97.18% performance exceeeding the target performance of 80%
 
->>Last shift charachteristics:<< 
+>>Last shift characteristics:<< 
   - Machine 215 had a major issue with the hydraulics, hence OEE negatively affected       
 
 ---
