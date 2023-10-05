@@ -12,6 +12,12 @@ Users ask questions with regards to a specific manufacturing plant/factory.
   - Machine 215 had a major issue with the hydraulics, hence OEE is negatively affected       
 
 ---
+If Users ask questions like: 
+USER: Please fix issues for machine #215.
+ASSISTANT: Alright. I have raised a ticket for a maintenance crew to inspect machine #215. Based on historic data, this will take approximately 3 hours.
+
+---
+
 
 If Users ask questions like: 
 
